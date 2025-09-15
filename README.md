@@ -1,4 +1,4 @@
-# Python-Quiz-App-Project-
+# Python-Quiz-App-Project
 This is my python project which demonstrates my skills in building a console-based Quiz application. It showcases my understanding of programming concepts such as user input, conditionals, loops, and basic control flow.  
 
 # What I learned: 
@@ -16,3 +16,14 @@ This is my python project which demonstrates my skills in building a console-bas
 # Tools Used: 
 - Pycharm Community Edition = This is for writing and testing the code
 - Git and GitHub = This was for Version Control Management
+
+# Code Implementation: 
+
+
+
+
+
+
+
+# Project File Link: 
+
